@@ -1,0 +1,33 @@
+body{
+    background: url(coffee-171653_1920.jpg) no-repeat center center;
+    background-size: cover;
+    font-family:'Oswald', sans-serif;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+}
+.rowHeight{
+    height: 500px;
+}
+.bg{
+    background-color: #c1c1c1;
+}
+.tnail{
+    width: 400px;
+    height: 200px;
+}
+.new{
+    width: 400px;
+    height: 200px;
+}
+.tnail2{
+    width: 400px;
+    height: 200px;
+}
+footer {
+    height: 100px;
+}
+footer p {
+    font-size: 70px;
+}
